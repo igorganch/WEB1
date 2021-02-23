@@ -1,0 +1,13 @@
+[
+{"id" : 1, "Name": "Wolf Of Wall Street","Description" : "Introduced to life in the fast lane through stockbroking, Jordan Belfort takes a hit after a Wall Street crash. He teams up with Donnie Azoff, cheating his way to the top as his relationships slide" , "Duration":180, "Picture" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm52BWbxXmwOpfz5rmx0BNBj79kSQoGpYPq4TVt07Jel5En6aC"},
+  {
+    "id": 2,
+    "Name": "I Am legend",
+    "Description": "Robert Neville, a scientist, is the last human survivor of a plague in the whole of New York. He attempts to find a way to reverse the effects of the man-made virus by using his own immune blood.",
+    "Duration": 104,
+    "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SpaxRBTVRhcZvrxnOQRDxMRgwYAPtuTWkgrobIITDBa1O_sM"
+  },
+{"id" : 3, "Name": "Pain & Gain", "Description" : "Daniel, along with his friends Adrian and Doyle, kidnaps a wealthy businessman with the intention of extorting money. However, the plan soon backfires owing to the trio's foolishness." , "Duration":129, "Picture" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQk2yeJLJVs7hzv5XX0PYuDsMGqiHYKEimSBMSGpKYzdMOH27vI"},
+{"id" : 4, "Name": "WALL-E", "Description" : "A machine responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind." , "Duration" : 104 , "Picture" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkI_Y17TkxS4nZXx2pDxsead1gNFjkRW4smQ3HbwMKcef24Vyu"},
+{"id" : 5, "Name": "WALL-E", "Description" : "A machine responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind." , "Duration" : 104 , "Picture" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkI_Y17TkxS4nZXx2pDxsead1gNFjkRW4smQ3HbwMKcef24Vyu"}
+]
